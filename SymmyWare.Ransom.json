@@ -1,5 +1,5 @@
 {
-        "name": "HelloKitty.Ransom",
+        "name": "SymmyWare.Ransom",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -31,63 +31,7 @@
         "hideDisabled": false,
         "techniques": [
                 {
-                        "techniqueID": "T1012",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1018",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1027",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1027.002",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1047",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1055",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056.004",
+                        "techniqueID": "T1053",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -103,6 +47,22 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1137",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1176",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1486",
                         "color": "#e60d0d",
                         "comment": "",
@@ -111,7 +71,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1547",
+                        "techniqueID": "T1552",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -119,7 +79,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1547.006",
+                        "techniqueID": "T1552.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

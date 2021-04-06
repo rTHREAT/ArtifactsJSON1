@@ -1,5 +1,5 @@
 {
-        "name": "HelloKitty.Ransom",
+        "name": "Pysa.Ransom",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -39,14 +39,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1018",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1027",
                         "color": "#e60d0d",
                         "comment": "",
@@ -63,39 +55,23 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1047",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1055",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1056.004",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1059",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1114",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1176",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -120,6 +96,22 @@
                 },
                 {
                         "techniqueID": "T1547.006",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1552",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1552.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

@@ -1,5 +1,5 @@
 {
-        "name": "HelloKitty.Ransom",
+        "name": "Cerber.Ransom",
         "versions": {
                 "attack": "8",
                 "navigator": "4.1",
@@ -47,30 +47,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1027",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1027.002",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1047",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1055",
                         "color": "#e60d0d",
                         "comment": "",
@@ -95,7 +71,23 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1059",
+                        "techniqueID": "T1083",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1120",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -120,6 +112,30 @@
                 },
                 {
                         "techniqueID": "T1547.006",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1560",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1569",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1569.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
