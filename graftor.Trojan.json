@@ -1,31 +1,12 @@
 {
-        "domain": "enterprise-attack",
-        "sorting": 0,
-        "layout": {
-                "showID": false,
-                "layout": "flat",
-                "showName": true
-        },
         "name": "graftor.Trojan",
         "versions": {
                 "attack": "9",
                 "navigator": "4.3",
                 "layer": "4.2"
         },
-        "gradient": {
-                "colors": [
-                        "#ff6666",
-                        "#ffe766",
-                        "#8ec843"
-                ],
-                "maxValue": 100,
-                "minValue": 0
-        },
-        "selectTechniquesAcrossTactics": true,
-        "legendItems": [],
-        "metadata": [],
-        "tacticRowBackground": "#dddddd",
-        "hideDisabled": false,
+        "domain": "enterprise-attack",
+        "description": "",
         "filters": {
                 "platforms": [
                         "Linux",
@@ -41,41 +22,148 @@
                         "Network"
                 ]
         },
-        "showTacticRowBackground": false,
+        "sorting": 0,
+        "layout": {
+                "layout": "flat",
+                "showID": false,
+                "showName": true
+        },
+        "hideDisabled": false,
         "techniques": [
                 {
-                        "comment": "",
-                        "techniqueID": "T1204",
+                        "techniqueID": "T1571",
                         "color": "#e60d0d",
-                        "showSubtechniques": true,
+                        "comment": "",
                         "enabled": true,
-                        "metadata": []
+                        "metadata": [],
+                        "showSubtechniques": true
                 },
                 {
-                        "comment": "",
-                        "techniqueID": "T1204.002",
+                        "techniqueID": "T1021",
                         "color": "#e60d0d",
-                        "showSubtechniques": true,
+                        "comment": "",
                         "enabled": true,
-                        "metadata": []
+                        "metadata": [],
+                        "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1021.001",
+                        "color": "#e60d0d",
                         "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1012",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1057",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1010",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1112",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1036",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1055",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1547",
                         "color": "#e60d0d",
-                        "showSubtechniques": true,
+                        "comment": "",
                         "enabled": true,
-                        "metadata": []
+                        "metadata": [],
+                        "showSubtechniques": true
                 },
                 {
-                        "comment": "",
                         "techniqueID": "T1547.006",
                         "color": "#e60d0d",
-                        "showSubtechniques": true,
+                        "comment": "",
                         "enabled": true,
-                        "metadata": []
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1056",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1056.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1204.002",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
                 }
         ],
-        "selectSubtechniquesWithParent": false,
-        "description": ""
+        "gradient": {
+                "colors": [
+                        "#ff6666",
+                        "#ffe766",
+                        "#8ec843"
+                ],
+                "minValue": 0,
+                "maxValue": 100
+        },
+        "legendItems": [],
+        "metadata": [],
+        "showTacticRowBackground": false,
+        "tacticRowBackground": "#dddddd",
+        "selectTechniquesAcrossTactics": true,
+        "selectSubtechniquesWithParent": false
 }
