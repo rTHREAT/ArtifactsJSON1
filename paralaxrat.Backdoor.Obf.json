@@ -1,5 +1,5 @@
 {
-        "name": "agenttesla.Trojan",
+        "name": "paralaxrat.Backdoor.Obf",
         "versions": {
                 "attack": "9",
                 "navigator": "4.3",
@@ -31,14 +31,6 @@
         "hideDisabled": false,
         "techniques": [
                 {
-                        "techniqueID": "T1560",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1012",
                         "color": "#e60d0d",
                         "comment": "",
@@ -63,14 +55,6 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1003",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
                         "techniqueID": "T1070",
                         "color": "#e60d0d",
                         "comment": "",
@@ -87,6 +71,22 @@
                         "showSubtechniques": true
                 },
                 {
+                        "techniqueID": "T1553",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1553.002",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
                         "techniqueID": "T1055",
                         "color": "#e60d0d",
                         "comment": "",
@@ -96,14 +96,6 @@
                 },
                 {
                         "techniqueID": "T1547",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1547.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -128,6 +120,22 @@
                 },
                 {
                         "techniqueID": "T1056.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1027",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1027.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,

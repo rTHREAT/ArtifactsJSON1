@@ -1,5 +1,5 @@
 {
-        "name": "agenttesla.Trojan",
+        "name": "wukill.Worm.Obf",
         "versions": {
                 "attack": "9",
                 "navigator": "4.3",
@@ -31,7 +31,15 @@
         "hideDisabled": false,
         "techniques": [
                 {
-                        "techniqueID": "T1560",
+                        "techniqueID": "T1021",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1021.001",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -47,23 +55,7 @@
                         "showSubtechniques": true
                 },
                 {
-                        "techniqueID": "T1057",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1120",
-                        "color": "#e60d0d",
-                        "comment": "",
-                        "enabled": true,
-                        "metadata": [],
-                        "showSubtechniques": true
-                },
-                {
-                        "techniqueID": "T1003",
+                        "techniqueID": "T1036",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
@@ -128,6 +120,30 @@
                 },
                 {
                         "techniqueID": "T1056.004",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1059",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1027",
+                        "color": "#e60d0d",
+                        "comment": "",
+                        "enabled": true,
+                        "metadata": [],
+                        "showSubtechniques": true
+                },
+                {
+                        "techniqueID": "T1027.002",
                         "color": "#e60d0d",
                         "comment": "",
                         "enabled": true,
